@@ -1,0 +1,6 @@
+BEGIN
+INPUT a,b
+    IF c=axb
+           DISPLAY “c”
+    END IF
+END

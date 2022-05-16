@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="utf-8"
+       <title>HTML link</title>
+    <head>
+    <body>
+      <h1>CV Phan Nhật Huy</h1>
+      <img src="......." width="240" height="320">
+      <p>
+        <ul>
+           <li>Họ và tên: Phan Nhật Huy</li>
+           <li>Ngày sinh: 24/8/1999</li>
+           <li>Địa chỉ email: nhathuy1999@gmail.com</li>
+           <li>Quê quán: Cam Hiếu Cam lộ Quảng trị</li>
+           <li>Trình độ học vấn: Đại học</li>
+           <li>Số điện thoại: 0945234123</li>
+           <li>Video giới thiểu bản thân:<video width="320" height="240" controls>
+                                           <source src="......">
+                                         </video> </li>
+           <li>Kinh nghiệm: 2 năm làm việc ở 1 chi nhánh FPT Đà Nẵng</li>
+           <li>Định hướng phát triễn cá nhân: hoàn thiển bản thân để trở thành lập trình viên chân chính</li>
+           <li>FB cá nhân: <a taget="_blank" href"xxxx">link fb cá nhân</a></li>
+        </ul>                
+      </p>
+    </body>
+</html>

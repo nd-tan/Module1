@@ -1,0 +1,25 @@
+BEGIN
+INPUT loại A
+      loại B
+      loại C
+      loại D
+      loại E
+      điểm
+  IF "điểm" =>75 THEN
+      DISPLAY "loại A"
+  ELSE
+     IF "điểm" =>60 THEN
+        DISPLAY "loại B"
+     ELSE
+       IF "điểm"=>45 THEN
+         DISPLAY "loại C"
+       ELSE
+         IF "điểm"=>35 THEN
+           DISPLAY "loại D"
+         ELSE
+           DISPLAY "loại E"
+         END IF
+       END IF
+     END IF
+  END IF  
+END
